@@ -17,7 +17,7 @@ This tutorial outlines the post-instal configurat of the open-source help desk t
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>Post-Install Configuration Objectives</h2>
 
 - Configure Roles
 - Configure Teams and Departments
